@@ -1,0 +1,147 @@
+ DSSV 
+ thu tu la MaSV-Ho-Ten-Phai 
+Lop 1
+5 nguyenhoai linh 1
+3 duongthien thanh 1
+4 phungthanh thao 1
+1 tranthi thu nam
+2 trinhkhanh tuyen nu
+Lop 2
+0 0 0 0
+9 nguyen hoa 1
+8 le hoan 1
+7 tan hoan 1
+6 thanh phuc 1
+Lop 3
+11 cho bao 1
+12 tran tam 1
+10 nguyen vi 1
+ Bang DIEM MON HOC 
+ Mon Hoc 1 Ma Mon Hoc 1
+ Mon Hoc 2 Ma Mon Hoc 2
+ Mon Hoc 3 Ma Mon Hoc 3
+ Lop 1
+ Mon Hoc  1
+     Ma SV :1
+     Ten SV :thu
+  Diem :6.5
+
+     Ma SV :2
+     Ten SV :tuyen
+  Diem :3.8
+
+     Ma SV :4
+     Ten SV :thao
+  Diem :7.2
+
+     Ma SV :5
+     Ten SV :linh
+  Diem :6.6
+
+ Mon Hoc  2
+     Ma SV :5
+     Ten SV :linh
+  Diem :9
+
+     Ma SV :1
+     Ten SV :thu
+  Diem :2.2
+
+     Ma SV :3
+     Ten SV :thanh
+  Diem :4.5
+
+ Mon Hoc  3
+     Ma SV :3
+     Ten SV :thanh
+  Diem :5.9
+
+     Ma SV :4
+     Ten SV :thao
+  Diem :7.9
+
+     Ma SV :1
+     Ten SV :thu
+  Diem :2.2
+
+ Lop 2
+ Mon Hoc  1
+     Ma SV :6
+     Ten SV :phuc
+  Diem :9.5
+
+     Ma SV :7
+     Ten SV :hoan
+  Diem :8
+
+     Ma SV :9
+     Ten SV :hoa
+  Diem :10
+
+ Mon Hoc  2
+     Ma SV :9
+     Ten SV :hoa
+  Diem :7
+
+     Ma SV :8
+     Ten SV :hoan
+  Diem :6.5
+
+     Ma SV :7
+     Ten SV :hoan
+  Diem :6.9
+
+ Mon Hoc  3
+     Ma SV :9
+     Ten SV :hoa
+  Diem :10
+
+     Ma SV :7
+     Ten SV :hoan
+  Diem :10
+
+ Lop 3
+ Mon Hoc  1
+     Ma SV :10
+     Ten SV :vi
+  Diem :5
+
+     Ma SV :11
+     Ten SV :bao
+  Diem :7
+
+ Mon Hoc  2
+     Ma SV :11
+     Ten SV :bao
+  Diem :7
+
+     Ma SV :12
+     Ten SV :tam
+  Diem :5
+
+ Mon Hoc  3
+     Ma SV :11
+     Ten SV :bao
+  Diem :7
+
+     Ma SV :12
+     Ten SV :tam
+  Diem :9
+
+ Bang Diem Mon Hoc Theo Tin Chi 
+ Lop  1
+    MA SV: 5 Diemtb: 8.04
+    MA SV: 3 Diemtb: 5.3
+    MA SV: 4 Diemtb: 7.66667
+    MA SV: 1 Diemtb: 3.15556
+    MA SV: 2 Diemtb: 3.8
+ Lop  2
+    MA SV: 0 Diemtb: nan
+    MA SV: 9 Diemtb: 9
+    MA SV: 8 Diemtb: 6.5
+    MA SV: 7 Diemtb: 8.52222
+    MA SV: 6 Diemtb: 9.5
+ Lop  3
+    MA SV: 11 Diemtb: 7
+    MA SV: 12 Diemtb: 7.28571
+    MA SV: 10 Diemtb: 5

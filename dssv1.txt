@@ -1,0 +1,14 @@
+ thu tu la MaSV-Ho-Ten-Phai 
+Lop 1
+2 nguyen hoa 1
+1 le hoan 2
+Lop 2
+Lop 3
+ Bang DIEM MON HOC  Lop 1
+ Lop 2
+ Lop 3
+ Bang Diem Mon Hoc THeo TIn CHI  Lop  1
+    MA SV: 2 Diemtb: nan
+    MA SV: 1 Diemtb: nan
+ Lop  2
+ Lop  3
